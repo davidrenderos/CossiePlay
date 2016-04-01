@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+ul {border: 1px solid #e7e7e7;
+	list-style:none;
+	margin:0; padding:0;
+	list-style-type: none;
+    overflow: hidden;
+    background-color: #333;}
+li {display:inline;
+float: left;}
+li a {
+	display:block;
+    color: white;
+	text-align:center;
+	padding:14px 16px;
+	text-decoration:none;
+}
+li a:hover {
+	background-color: #111111;
+}
+.stuff1 { font-size:14px;
+text-align:center;}
+.stuff2 {padding-right:14px;}
+.stuff3 {
+	word-wrap: break-word;
+	width: 50%;
+	float: left;
+	min-width: 0px;
+	text-align: center;
+	margin-top: 20px;
+	margin-left: 15px;
+	margin-bottom: 186px;
+	font-variant: small-caps;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: large;
+}
+.stuff4 {
+	word-wrap: break-word;
+	font-family: Orbitron;
+	font-variant: small-caps;
+}
+
+h1 {font-family:Orbitron;	font-size: large;
+}
+h2 {font-family:Orbitron;}
+.table1 {
+    border-collapse: collapse;
+	border:hidden;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+	border:hidden;
+    border-bottom: 1px solid #ddd;
+}
+ul1 {align-content:center;}
